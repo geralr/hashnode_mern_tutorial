@@ -1,0 +1,20 @@
+{
+  "name": "mern-tutorial",
+  "version": "1.0.0",
+  "description": "This is the tutorial for building apps using MERN stack",
+  "main": "webapp.js",
+  "scripts": {
+    "test": "testme"
+  },
+  "repository": {
+    "type": "git",
+    "url": "notnow"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-preset-react": "^6.11.1",
+    "express": "^4.14.0"
+  },
+  "devDependencies": {}
+}
